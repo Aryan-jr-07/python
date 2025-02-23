@@ -58,10 +58,10 @@
 # bc = c_f(30)
 # print("let's go:", bc)
 
-def c_f(a):
-  return (a*9/5)+32
-okk = c_f(30)
-print(okk)
+# def c_f(a):
+#   return (a*9/5)+32
+# okk = c_f(30)
+# print(okk)
 
 # def ek(c):
 #   return c
@@ -72,14 +72,20 @@ print(okk)
 #   ise = (ise*6/2)+19
 #   return ise
 # k = seek(12)
-# print("juts got it :",int(k))
+# print("juts got it :",k)
 
-# def ho(diwana):  
-#   gyi = (diwana * 9/5)+32
-#   print("heheh siuuuu:",type(gyi))
-# ho(30)
+'''
+def ho(diwana):  
+  gyi = (diwana * 9/5)+32
+  print("heheh siuuuu:",gyi)
+ho(30)
 
+def ho(diwana):  
+  print("heheh siuuuu:",(diwana * 9/5)+32)
+ho(30)
 
- 
-
-
+def ho(diwana):  
+  gyi = (diwana * 9/5)+32
+  print("heheh siuuuu:",gyi)
+ho(int(input()))
+'''
