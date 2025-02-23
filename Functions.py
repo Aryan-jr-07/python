@@ -11,15 +11,21 @@
 
 '''return statement'''
 
-def retu(a,b):
-  return a-b
-hmm = retu(7,2)
-print("mai hun don:", hmm)
+# def retu(a,b):
+#   return a-b
+# hmm = retu(7,2)
+# print("mai hun don:", hmm)
+
+# def okie(a,b):
+#   return a-b
+# siu = okie(3,1)
+# print("let's go :",siu)
 
 # def yeah(a,b):
 #   iuu = a+b
 #   print("got it :",iuu)
 # yeah(1,2)
+# yeah(1,5)
 
 # def ka():
 #   print("hoo")
@@ -34,6 +40,18 @@ print("mai hun don:", hmm)
 #   return a//b
 # sm = add2num(4,2)
 # print(sm)
+
+# def rohit(a,b):
+#   return a*b
+# a = int(input())
+# b = int(input())
+# print(f"into of {a} x {b} :",a*b)
+
+# def rohit(a,b):
+#   return a*b
+# sum = rohit(2,3)
+# print(sum)
+
 
 # def c_f(a):
 #   b = (a*9/5)+32
