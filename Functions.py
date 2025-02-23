@@ -89,3 +89,7 @@ def ho(diwana):
   print("heheh siuuuu:",gyi)
 ho(int(input()))
 '''
+
+# def ok():
+#   pass
+# print("bdk")
