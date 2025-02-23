@@ -52,12 +52,21 @@
 # sum = rohit(2,3)
 # print(sum)
 
-
 # def c_f(a):
 #   b = (a*9/5)+32
 #   return b
 # bc = c_f(30)
 # print("let's go:", bc)
+
+def c_f(a):
+  return (a*9/5)+32
+okk = c_f(30)
+print(okk)
+
+# def ek(c):
+#   return c
+# c = int(input())
+# print(c*2+1)
 
 # def seek(ise):
 #   ise = (ise*6/2)+19
