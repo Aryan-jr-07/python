@@ -59,6 +59,4 @@ elif select == 5:
     print("(", number1, "+", number2, ")", "/", "2", "=", \
           avg(number1, number2))
 else:
-   print("Invalid operation! pls select again")
-
-   
+    print("Invalid operation! pls select again")
