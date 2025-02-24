@@ -1,7 +1,7 @@
 # calculator #
 
-# steps :-
 '''
+# steps :-
 1.function for operation
 2.user input
 3.print result
@@ -56,7 +56,9 @@ elif select == 4:
     print(number1, "/", number2, "=", \
           divide(number1, number2))
 elif select == 5:
-    print(number1, "+", number2, ")", "/", "2", "=", \
+    print("(", number1, "+", number2, ")", "/", "2", "=", \
           avg(number1, number2))
 else:
    print("Invalid operation! pls select again")
+
+   
