@@ -88,9 +88,12 @@ for i in range(5):
 #     print(count)
 #   count -=1
 
-while True:
-  user_input = input("enter 'text to stop:")
-  if user_input == 'exit':
-    print("congrats! you guessed it right!")
-    break
-  print("sorry, you entered: ", user_input)
+# while True:
+#   user_input = input("enter 'text to stop:")
+#   if user_input == 'exit':
+#     print("congrats! you guessed it right!")
+#     break
+#   print("sorry, you entered: ", user_input)
+
+
+# Nested loop
