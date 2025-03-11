@@ -90,12 +90,12 @@ def ho(diwana):
 ho(int(input()))
 '''
 
-def ok():
-  pass
-print("bdk")
+# def ok():
+#   pass
+# print("bdk")
 
-def print_detail(**kwargs):
-  print(type(kwargs))
-  for key, value in kwargs.items():
-    print(f"{key}: {value}")
-print_detail(name = "aryan", age = 25, city= "patna", hmm = "yeah")
+# def print_detail(**kwargs):
+#   print(type(kwargs))
+#   for key, value in kwargs.items():
+#     print(f"{key}: {value}")
+# print_detail(name = "aryan", age = 25, city= "patna", hmm = "yeah")
