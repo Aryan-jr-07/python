@@ -1,6 +1,8 @@
 # name = "aryan"
 # age =16
 # print("My name is %s and I'm %d " %(name, age))
+# %s Format specifier for an string AND %d Format specifier for an integer
+
 
 # print("my name is {name} and I'm {age} and I live in {city}".format(name = "aryan",age=15,city ="a.bad"))
 
