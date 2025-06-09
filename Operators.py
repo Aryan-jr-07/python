@@ -9,7 +9,7 @@
 
 AND, OR, NOT                             AND(both statements should true), OR(any one of the statement should true), NOT(result ka ultaa)
 
-<<,>>                                    bitwise Leftshift, bitwise right shift
+<<,>>                                    bitwise Leftshift, bitwise rightshift
 &,^,|                                    bitwise AND ,bitwise XOR, bitwise OR
 =, +=, -=, *=, /=, //=, %=, **=          assignment operators
 
@@ -46,19 +46,26 @@ print(not(c==10 and d==20))
 '''
 #5. identity operators - is, is not
 '''
-x = [1,2,3]
+x= [1,2,3]
 y= x
 z= [1,2,3]
 print(x is y)
 print(x is z)
+'''
+
 
 # 6. membership operator - in , not in
+'''
 my_list = ["apple", "banana", "orange"]
 print("apple" in my_list)
 print("apple2" in my_list)
-print("orange" in my_list) '''
+print("apple2" not in my_list)
+print("orange" in my_list) 
+'''
 
 # 7. bitwise operators - AND & , OR |, XOR ^, NOT ~, etc
+'''
 a = 5
 b =3
 print(a&b)
+'''
