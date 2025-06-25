@@ -94,7 +94,8 @@ for i in range(5):
 #   if user_input == 'exit':
 #     print("congrats! you guessed it right!")
 #     break
-#   print("sorry, you entered: ", user_input,"is wrong")
+  # print("sorry, you entered: ", user_input,"is wrong")
+  # print(f"sorry,you entered: '{user_input}' is wrong")
 
 
 # Nested loop
