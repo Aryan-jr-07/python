@@ -83,6 +83,7 @@ for i in range(5):
 # while count >0:
 #   # print(count)
 #   if count ==3:
+#     count -= 1
 #     continue
 #   else:
 #     print(count)
@@ -93,7 +94,7 @@ for i in range(5):
 #   if user_input == 'exit':
 #     print("congrats! you guessed it right!")
 #     break
-#   print("sorry, you entered: ", user_input)
+#   print("sorry, you entered: ", user_input,"is wrong")
 
 
 # Nested loop
