@@ -49,7 +49,7 @@ range(start,stop,step)'''
 '''count =5
 while count >0:
   if count == 3:
-    pass # here jab count =3 hoga then then if condition true ho gyi so if condition k ander pass hai so it will    pass and it means for count =3 if wali statement true hai that's why else condintion nhi chalegi cuz if wali    condition wrong hogi then only else wali condition chalti h so it will pass to the (count -=1)
+    pass # here jab count =3 hoga then then if condition true ho gyi so if condition k ander pass hai so it will   pass and it means for count =3 if wali statement true hai that's why else condintion nhi chalegi cuz if wali    condition wrong hogi then only else wali condition chalti h so it will pass to the (count -=1)
   else:
     print(count)
   count -=1 '''
