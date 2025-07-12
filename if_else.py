@@ -51,10 +51,3 @@ status = "major" if age >= 18 else "minor"
 print(status)
 '''
 
-
-
-
-
-
-
-
