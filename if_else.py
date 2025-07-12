@@ -19,6 +19,7 @@ else:
     print("it's a hot day")
 
     
+
 #2. if -elif-else statement
 marks = int(input('enter your marks :'))
 if marks >= 80:
@@ -29,6 +30,8 @@ elif marks >=50:
     print("grade C")
 else:
     print("grade d")
+
+    
 
 # 4. nested if else 
 #Q; positive, negative & zero. positive - even/odd
@@ -45,6 +48,7 @@ else:
         print("this is a negative number")
 
 
+        
 # 5. conditional expression (ternary operator)
 age = int(input("enter you age :"))
 status = "major" if age >= 18 else "minor"
