@@ -1,6 +1,6 @@
 # def siuu(a,b):
 #   res = a+b
-#   print("yeah my name is :", res)
+#   print("yeah my age is :", res)
 # siuu(3,2)
 # siuu(6,2)
 # siuu(3,3)
@@ -99,3 +99,6 @@ ho(int(input()))
 #   for key, value in kwargs.items():
 #     print(f"{key}: {value}")
 # print_detail(name = "aryan", age = 25, city= "patna", hmm = "yeah")
+
+
+
