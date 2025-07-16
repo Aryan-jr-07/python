@@ -31,4 +31,5 @@ for i in range(n,0,-1):
 # pyramid pattern
 n=5
 for i in range(1,n+1):
-    print()
+    print(" " * (n-i),end=" ") #for gap
+    print("*" * (2*i-1))
