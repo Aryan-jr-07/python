@@ -47,6 +47,7 @@
 # b = int(input())
 # print(f"into of {a} x {b} :",a*b)
 
+
 # def rohit(a,b):
 #   return a*b
 # sum = rohit(2,3)
@@ -102,3 +103,9 @@ ho(int(input()))
 
 
 
+
+
+
+# def gret():
+#     print("aryan")
+# gret()
