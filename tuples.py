@@ -39,8 +39,10 @@
 # print(99 in num)
 
 
-siuu =("hmm","lamine","yamal","siuu")
-i= 0
-while i < len(siuu):
-    print(siuu[i])
-    i +=1
+# siuu =("hmm","lamine","yamal","siuu")
+# i= 0
+# while i < len(siuu):
+#     print(siuu[i])
+#     i +=1
+
+
