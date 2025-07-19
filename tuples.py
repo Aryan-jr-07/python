@@ -77,3 +77,10 @@ print(type(sike))'''
 
 
 # packing and unpacking in tuple
+# packing
+a = "Aryan"
+b= 19 
+c ="stricker"
+t_pack = a,b,c
+print(t_pack)
+print(type(t_pack))
