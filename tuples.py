@@ -73,3 +73,7 @@ print(type(siuu))
 sike = tuple(siuu) # if u want to change the list into tuple again
 print(sike)
 print(type(sike))'''
+
+
+
+# packing and unpacking in tuple
