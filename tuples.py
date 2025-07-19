@@ -22,3 +22,18 @@
 # huh = (1,2,3,4,"aag")
 # print(huh)
 # print(type(huh))
+
+'''contatinations'''
+# tup = ("sike",22,"khaa")
+# sup = ("laida",99,"farebi")
+# print(tup+sup)
+
+'''repetations'''
+# huhu = ("hel",) * 3
+# print(huhu)
+
+'''chekc for an item'''
+# num = (1,2,3,99,77,29,79)
+# print(num)
+# print(type(num))
+# print(99 in num)
