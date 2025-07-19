@@ -49,7 +49,9 @@
 '''tuple method'''
 # there are only two method in tuple --- count() and index()
 # count() in tuple means u can get the number of times that value occurs in a tuple
-# index() it will return you the index number of that value whichever you search in the .index()
+''' kajal = ("teri","ek","gul","dil","gul","gul")
+print(kajal.count("gul"))''' # output: 3
 
-kajal = ("teri","ek","gul","dil","gul","gul")
-print(kajal.count("gul"))
+# index() it will return you the index number of that value whichever you search in the .index()
+players = "dalle","nalla","mamta","sanjay","pu",1
+print(players.index(1)) # output: 5
