@@ -115,3 +115,4 @@ tuple_number = (10,40,99)
 tuple_number[0] =100 #it will thorugh an (error) as tuple is immutable(not_changeable)
 
 #How to mutate / modify tuple
+''' So the answer is first change the tuple into list then do modification then chnage back it to tuple'''
