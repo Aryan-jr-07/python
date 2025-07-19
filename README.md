@@ -4,3 +4,5 @@
 <!-- oprators -->
 <!-- casting -->
 <!-- if else  -->
+<!-- loops -->
+<!-- functions -->
