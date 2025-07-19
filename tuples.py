@@ -68,4 +68,8 @@ print(len(huhu)) '''
 
 siuu = sorted(mar) #sorted in python changes the tuple into list
 print(siuu)
-print(type(siuu))'''
+print(type(siuu))
+
+sike = tuple(siuu) # if u want to change the list into tuple again
+print(sike)
+print(type(sike))'''
