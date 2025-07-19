@@ -61,11 +61,11 @@ print(type(players)) '''
 ''' huhu = ("hass","dii","ronaldo",13,4,4,88,23,79)
 print(len(huhu)) '''
 
-mar = (1,2,45,6,69,7,47,99)
+'''mar = (1,2,45,6,69,7,47,99)
 # print(sum(mar)) # output: 276 (which is sum of all the numbers in the give tuple)
 # print(max(mar)) # output: 99 (max number in the tuple)
 # print(min(mar)) # output: 1 (lowest number in the tuple)
 
 siuu = sorted(mar) #sorted in python changes the tuple into list
 print(siuu)
-print(type(siuu))
+print(type(siuu))'''
