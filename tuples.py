@@ -18,3 +18,7 @@
 # 4. single item tuple
 # new_top = ("singleeonly",)
 # new = 4,
+
+# huh = (1,2,3,4,"aag")
+# print(huh)
+# print(type(huh))
