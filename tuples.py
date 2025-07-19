@@ -3,9 +3,18 @@
 
 '''mutliple way to creare tuples'''
 
-# 1 using pranthesis -- just write inside small bracket
+# 1. using pranthesis -- just write inside small bracket
 # hehe = (1,2,[99,27],(3,4),"siuu")
 
-# 2 without pranthesis -- just write anything it should be comma seperated
+# 2. without pranthesis -- just write anything it should be comma seperated
 # hehe = 1,2,3,"siuu",99
 
+# 3. using tuple constructor
+# new_tup = tuple((1,2,"hello","siuuu","maggie"))
+# if u want to convert list in tuple 
+# new_dawg = [1,2,3,4,"man"]
+# new_shit = tuple(new_dawg)
+
+# 4. single item tuple
+# new_top = ("singleeonly",)
+# new = 4,
