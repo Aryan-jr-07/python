@@ -111,3 +111,5 @@ print(type(sike))'''
 
 
 # Modifying tuples
+tuple_number = (10,40,99)
+tuple_number[0] =100 #it will thorugh an (error) as tuple is immutable(not_changeable)
