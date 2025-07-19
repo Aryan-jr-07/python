@@ -77,22 +77,22 @@ print(type(sike))'''
 
 
 # packing and unpacking in tuple :---
-# packing -- Packing is putting multiple values into a single tuple variable.
-'''a = "Aryan"
-b= 19 
-c ="stricker"
-t_pack = a,b,c
-print(t_pack)
-print(type(t_pack))'''
+''' packing -- Packing is putting multiple values into a single tuple variable.'''
+# a = "Aryan"
+# b= 19 
+# c ="stricker"
+# t_pack = a,b,c
+# print(t_pack)
+# print(type(t_pack))
 
-# unpacking -- we unpack 
-'''name , age , proff = t_pack
-print(name)
-print(age)
-print(proff)
-print(type(name))
-print(type(age))
-print(type(proff))'''
+''' unpacking -- we unpack '''
+# name , age , proff = t_pack
+# print(name)
+# print(age)
+# print(proff)
+# print(type(name))
+# print(type(age))
+# print(type(proff))
 
 
 '''packing'''
