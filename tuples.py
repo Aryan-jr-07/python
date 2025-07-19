@@ -111,18 +111,19 @@ print(type(sike))'''
 
 
 # Modifying tuples
-tuple_number = (10,40,99)
-''' tuple_number[0] =100 #it will thorugh an (error) as tuple is immutable(not_changeable)'''
+''' tuple_number = (10,40,99)
+tuple_number[0] =100 #it will thorugh an (error) as tuple is immutable(not_changeable)'''
 
-#How to mutate / modify tuple
-''' So the answer is first change the tuple into list then do modification then chnage back it to tuple'''
-new = list(tuple_number)
-print(new)
-new[0]=130
-new.extend(["hehe",99])
-print(new)
-print(type(new))
+''' How to mutate / modify tuple ''' 
+#  So the answer is first change the tuple into list then do modification then chnage back it to tuple'''
 
-tuple_number = tuple(new)
-print(tuple_number)
-print(type(tuple_number))
+# new = list(tuple_number)
+# print(new)
+# new[0]=130
+# new.extend(["hehe",99])
+# print(new)
+# print(type(new))
+
+# tuple_number = tuple(new)
+# print(tuple_number)
+# print(type(tuple_number))
