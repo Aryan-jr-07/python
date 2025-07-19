@@ -46,3 +46,6 @@
 #     i +=1
 
 
+'''tuple method'''
+# there are only two method in tuple --- count() and index()
+# count() in tuple means u can get the value that how many times that value are comming
