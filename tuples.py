@@ -49,3 +49,6 @@
 '''tuple method'''
 # there are only two method in tuple --- count() and index()
 # count() in tuple means u can get the number of times that value occurs in a tuple
+
+kajal = ("teri","ek","gul","dil","gul","gul")
+print(kajal.count("gul"))
